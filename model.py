@@ -1,0 +1,22 @@
+# -*- coding: UTF-8 -*-
+import language, country
+
+n = language.English(10000000)
+m = language.Hindi(132)
+amer_sp = language.Spanish(12333)
+China_C = language.Chinese(12999993)
+China_e = language.English(1223244)
+China_M = language.Malay(12342)
+american = country.country("USA", 10000000, 0.5, country.position(5,23), n, m, amer_sp)
+China = country.country("China", 20000000, 0.2, country.position(-2,24), China_C, China_e, China_M)
+print("China:")
+country.show(China)
+print("american:")
+country.show(american)
+China.flow(american)
+american.flow(China)
+print("after:")
+print("China:")
+country.show(China)
+print("american:")
+country.show(american)
