@@ -1,0 +1,138 @@
+﻿中文
+China	
+Brunei	
+Indonesia	
+Mongolia
+Philippines	
+Singapore
+Thailand	
+Australia	
+Myanmar
+
+英语
+UK
+Australia	
+Canada	
+Ethiopia	
+Ghana	
+India	
+Trinidad and Tobago	
+Malaysia	
+Ireland	Israel	
+Nepal	
+Netherlands	
+New Zealand	
+Philippines	
+Kenya	
+Lesotho	 
+Liberia	
+Nigeria	
+Singapore	
+South Africa	
+Tanzania	
+Uganda	
+USA	
+Zimbabwe
+
+日语
+Japan
+
+巴基斯坦语
+Pakistan	
+Bangladesh	
+India	
+Nepal	
+Mauritius	
+South Africa
+
+旁遮普
+India	
+Kenya	
+Singapore	
+Pakistan
+
+西语
+Spain	
+Argentina	
+Bolivia	
+Chile	
+Colombia	 
+Costa Rica	
+Cuba	
+Dominican Republic	
+Ecuador	El Salvador	 
+Guatemala	
+France	
+Honduras	
+Mexico	
+Morocco	
+Nicaragua	
+Panama	
+Reru	
+Puerto Rico	 
+Philippines	
+Uruguay	
+USA	
+Venezuela
+
+阿拉伯语
+Saudi Arabia	
+Algeria	
+Egypt	
+Eritrea	
+Iran	
+Iraq	
+Israel	
+Jordan	
+Kuwait	
+Lebanon	
+Libya	
+Mauritania	
+Morocco	
+Oman	
+Palestine	
+Qatar	
+Somalia	
+South Sudan	
+Sudan	
+Syria	 
+Tunisia	
+United Arab Emirates	
+Yemen
+
+俄语
+Russia	
+China	
+Azerbaijan	
+Belarus	
+Estonia	
+Georgia	
+Israel	
+Kazakhstan	 
+Kyrgyzstan	
+Latvia	
+Lithuania	
+Moldova	
+Mongolia	
+Tajikistan	 
+Ukraine	Poland	
+Turkmenistan 	
+USA	
+Uzbekistan
+
+孟加拉语
+Bangladesh	
+India	
+Nepal	
+Singapore
+
+
+
+
+
+
+
+
+
+
+
