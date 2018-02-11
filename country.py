@@ -7,7 +7,6 @@ class position(object):
 		self.longitude = x
 		#纬度
 		self.latitude = y
-
 	def dis(self, other):
 		pass
 
